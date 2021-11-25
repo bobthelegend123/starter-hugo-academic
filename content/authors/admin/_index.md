@@ -41,6 +41,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a 16 year old student from Hwa Chong Institution (Singapore). I just graduated from high school and is joining Junior College next year. I made this website cos ppl around started doing theirs so why not :). I like physics and math and programming is one of my new-found interest although I hated it initially because dumb me thought it was useless.
+I am a 16 year old student from Hwa Chong Institution (Singapore). I just graduated from high school and is joining Junior College next year. I made this website cos ppl around started doing theirs so why not :). I like physics and art and programming is one of my new-found interest although I hated it initially because dumb me thought it was useless.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
