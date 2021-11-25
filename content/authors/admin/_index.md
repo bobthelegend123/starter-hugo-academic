@@ -2,8 +2,7 @@
 title: XinRui
 role: Student at Hwa Chong Institution
 avatar_filename: doraemon-2.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: "I like physics and am currently learning programming. "
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -25,8 +24,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Hwa Chong Institution
+    url: https://www.hci.edu.sg/https://www.stanford.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -42,9 +41,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a 16 year old student from Hwa Chong Institution (Singapore). I just graduated from the high school and is joining Junior College next year. I made this website cos ppl around started doing theirs so why not :). I like physics and math and programming is one of my new-found interest although I hated it initially because dumb me thought it was useless.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
